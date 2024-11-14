@@ -17,6 +17,8 @@ Golang Developer
 <p align="left">
   <a href="https://www.go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Golang" /></a>
   &nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.ni.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/national-instruments-labview.svg" width="36" height="36" alt="LabVIEW" /></a>  
