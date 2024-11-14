@@ -8,7 +8,7 @@ Golang Developer
 <!--* 🖥️  ~~See my portfolio at [https://dpcamargo.github.io/](http://dpcamargo.github.io/)~~-->
 * 👨‍💻 Currently working for [Mercado Livre](https://www.mercadolivre.com.br/)
 <!---->
-* 🧠  Learning Golang and Cloud Computing
+* 🧠  Learning Golang, Java and Cloud Computing
 <!---->
 * ⚡  Let's connect on [Linkedin](https://www.linkedin.com/in/dpcamargo)
 
