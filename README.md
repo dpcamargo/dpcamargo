@@ -8,9 +8,15 @@ Golang Developer
 <!--* 🖥️  ~~See my portfolio at [https://dpcamargo.github.io/](http://dpcamargo.github.io/)~~-->
 * 👨‍💻 Currently working for [Mercado Livre](https://www.mercadolivre.com.br/)
 <!---->
-* 🧠  Learning Golang, Java and Cloud Computing
+* 💻  Working with Golang, Java and Python
 <!---->
 * ⚡  Let's connect on [Linkedin](https://www.linkedin.com/in/dpcamargo)
+
+### Education
+<!---->
+* 📚 Go Expert Post Graduate - [Full Cycle](https://fullcycle.com.br/) (2024)
+<!---->
+* 📚 Java Architecture and Development - [FIAP](https://www.fiap.com.br/) (In course)
 
 ### Skills
 
