@@ -36,4 +36,6 @@ Golang Developer
   <a href="https://www.github.com/dpcamargo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dpcamargo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" /></a>
+&nbsp;&nbsp;&nbsp;
+  <a href="https://dpcamargo.github.io/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/web-icon-white/web-icon-white-3.jpg" width="32" height="32" /></a>
 </p>
