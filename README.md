@@ -1,8 +1,4 @@
-Hi 👋 My name is Dario Camargo
-==============================
-
-Golang Developer
--------------------------------
+<a href="https://github.com/dpcamargo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Dario%20Camargo%20-%20Software%20Engineer&font=Fira%20Code&center=true&width=440&height=45&color=bluevCenter=true&size=22"  ></a>
 
 * 🌍  Based in São Paulo - Brazil
 <!--* 🖥️  ~~See my portfolio at [https://dpcamargo.github.io/](http://dpcamargo.github.io/)~~-->
@@ -39,3 +35,17 @@ Golang Developer
 &nbsp;&nbsp;&nbsp;
   <a href="https://dpcamargo.github.io/" target="_blank" rel="noreferrer"><img src="https://icon-library.com/images/web-icon-white/web-icon-white-3.jpg" width="32" height="32" /></a>
 </p>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dpcamargo&show_icons=true&bg_color=00000000" height="145" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dpcamargo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&bg_color=00000000&hide_border=false" height="145" alt="languages graph"/>   
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpcamargo&theme=tokyonight-duo" height="145" alt="dpcamargo" />
+   
+</div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dpcamargo&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dpcamargo&theme=chartreuse_dark) |
+| :-: | :-: | 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dpcamargo&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dpcamargo&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dpcamargo&theme=chartreuse_dark&utcOffset=8) |
+| :-: | :-: | :-: | 
